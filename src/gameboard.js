@@ -1,0 +1,6 @@
+export const GAMEBOARD = [[{letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}],
+[{letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}],
+[{letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}],
+[{letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}],
+[{letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}],
+[{letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}, {letter: '', status: 'unknown'}]]
